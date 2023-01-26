@@ -1,2 +1,2 @@
 # learnlwl.github.io
-Static webpages
+Static webpages for Learn Languages With Lyrics
